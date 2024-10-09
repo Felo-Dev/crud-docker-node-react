@@ -5,6 +5,9 @@
 ## Descripción del Proyecto
 Este proyecto es una aplicación web para gestionar tareas, desarrollada con tecnologías modernas como React, Node.js, Express y MySQL. La aplicación permite a los usuarios crear, editar y eliminar tareas, y también muestra notificaciones personalizadas utilizando Notiflix.
 
+![vista del formulario](./img/cpt1.png)
+![vista edicion de la tarea](./img/cpt2.png)
+
 ## Estructura del Proyecto
 El proyecto está dividido en dos partes principales:
 
