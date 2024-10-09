@@ -1,0 +1,22 @@
+# Node.js y npm
+node_modules/
+
+# Archivos de compilación
+dist/
+
+# Archivos de configuración
+.env
+
+# Archivos de depuración
+debug.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de base de datos
+*.db
+*.sqlite
+
+# Archivos de logs
+logs/
